@@ -7,9 +7,9 @@ phiData provides a sophisticated framework that ensures data integrity and enhan
 This project leverages a sophisticated multi-agent orchestration system to provide comprehensive stock market analysis and recommendations. It integrates advanced data fetching, analysis, and visualization tools to deliver real-time insights and stock performance predictions.
 
 **Key Features**
-**Multi-Agent Orchestration:** Utilizes multiple specialized agents that coordinate to handle complex queries about stock market data, news, and analytics.
-**Dynamic Stock Market Analysis:** Offers deep dives into stock fundamentals, analyst recommendations, and market sentiment analysis.
-**Interactive Query Handling:** Processes user queries effectively, providing tailored responses based on real-time data.
+- **Multi-Agent Orchestration:** Utilizes multiple specialized agents that coordinate to handle complex queries about stock market data, news, and analytics.
+- **Dynamic Stock Market Analysis:** Offers deep dives into stock fundamentals, analyst recommendations, and market sentiment analysis.
+- **Interactive Query Handling:** Processes user queries effectively, providing tailored responses based on real-time data.
 
 ![image](https://github.com/wasimhassanshah/Stock_Recommendation_AI_Agent_Team/blob/main/Stock_agent.PNG)
 
